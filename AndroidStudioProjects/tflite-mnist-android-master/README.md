@@ -45,6 +45,9 @@ aaptOptions {
 }
 ```
 
+![과제](https://user-images.githubusercontent.com/106796849/232017104-bb810873-3ee0-436e-8d0b-0069f904b4c5.png)
+
+
 ## Credits
 
 - The basic model architecture comes from [tensorflow-mnist-tutorial](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd/tree/master/tensorflow-mnist-tutorial).
